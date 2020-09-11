@@ -11,4 +11,4 @@ r = float(input('r : '))
 def Sequences():
     return float(a1/(1-r))
 
-print('Sn = ' + str(Sequences()))
+print('S∞ = ' + str(Sequences()))
